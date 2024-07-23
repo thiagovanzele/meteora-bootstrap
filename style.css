@@ -5,3 +5,13 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.cor-verde {
+    color: #DAFF01;
+}
+
+.cor-lilas {
+    background-color: #9353FF;
+    color: white;
+    border: none;
+}
