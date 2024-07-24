@@ -15,3 +15,13 @@
     color: white;
     border: none;
 }
+
+.btn-primary:hover {
+    background-color: white;
+    color: #9353FF;
+    border: 1px solid #9353FF;
+}
+
+.btn-primary {
+    border: 1px solid #9353FF;
+}
